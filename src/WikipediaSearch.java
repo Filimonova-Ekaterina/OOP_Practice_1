@@ -120,7 +120,6 @@ class WikipediaApi
     }
 }
 
-// Класс модели для хранения результата поиска
 class WikipediaSearchResult
 {
     private int pageId;
